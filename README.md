@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmay2660&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay2660" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmay2660" alt="chinmay2660" /></a> </p>
-
 - 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **bhoirchinmay2014@gmail.com**
