@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **bhoirchinmay2014@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gNpkZUCpX0aQCiTmy3MPOZV-fnO2Y3pY/view](https://drive.google.com/file/d/1gNpkZUCpX0aQCiTmy3MPOZV-fnO2Y3pY/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chinmay2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmay2660" height="30" width="40" /></a>
@@ -19,6 +17,7 @@
 <a href="https://codeforces.com/profile/bhoirchinmay2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bhoirchinmay2014" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chinmay2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinmay2660" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@bhoirchinmay2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@bhoirchinmay2014" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/chinmay2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chinmay2660" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
