@@ -24,5 +24,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay2660&" alt="chinmay2660" /></p>
 
-![snake gif](https://github.com/Chinmay2660/Chinmay2660/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Chinmay2660/Chinmay2660/blob/output/github-contribution-grid-snake.gif))
 
