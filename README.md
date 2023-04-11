@@ -30,4 +30,4 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-
+![Snake animation](https://github.com/{{Chinmay2660}}/{{Chinmay2660}}/blob/output/github-contribution-grid-snake.svg)
