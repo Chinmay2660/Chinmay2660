@@ -13,6 +13,11 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chinmay__bhoir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay2660)
+[![Leetcode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/chinmay2660/)
+[![Hackerrank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chinmay2660)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-%230B4F92.svg?logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@chinmay2660)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%23435F7A.svg?logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/chinmay2660)
+
 <a href="https://www.leetcode.com/chinmay2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinmay2660" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chinmay2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chinmay2660" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@chinmay2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@chinmay2660" height="30" width="40" /></a>
