@@ -9,7 +9,7 @@
 
 🔭 I’m currently working in Jio Platforms Limited<br>👯 I’m looking to collaborate on Reactjs, Nodejs<br>🌱 I’m currently learning MERN Stack Web Development<br>💬 Ask me about Reactjs<br>📫 Reach me **bhoirchinmay2014@gmail.com**<br>
 
-## 🌐 Connect with Me:
+# 🌐 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay2660)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chinmay__bhoir)
@@ -30,11 +30,11 @@
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay2660&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=chinmay2660&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
