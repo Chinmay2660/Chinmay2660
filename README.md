@@ -2,9 +2,7 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
----
-
-[![](https://visitcount.itsvg.in/api?id=chinmay2660&icon=0&color=10)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmay2660&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay2660" /> </p>
 
 # 💫 About Me:
 
