@@ -6,11 +6,19 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working in Jio Platforms Limited<br>👯 I’m looking to collaborate on Reactjs, Nodejs<br>🌱 I’m currently learning MERN Stack Web Development<br>💬 Ask me about Reactjs<br>📫 How to reach me **bhoirchinmay2014@gmail.com**<br>
+🔭 I’m currently working in Jio Platforms Limited<br>👯 I’m looking to collaborate on Reactjs, Nodejs<br>🌱 I’m currently learning MERN Stack Web Development<br>💬 Ask me about Reactjs<br>📫 Reach me **bhoirchinmay2014@gmail.com**<br>
 
 ## 🌐 Connect with Me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chinmay__bhoir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay2660)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chinmay__bhoir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay2660)
+
+<p align="left">
+<a href="https://www.hackerrank.com/chinmay2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chinmay2660" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chinmay2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinmay2660" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@chinmay2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@chinmay2660" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/chinmay2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chinmay2660" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 
@@ -24,11 +32,11 @@
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay2660&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=chinmay2660&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
