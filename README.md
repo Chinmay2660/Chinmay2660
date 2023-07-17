@@ -39,6 +39,4 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=chinmay2660&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-![snake gif](https://github.com/Chinmay2660/Chinmay2660/blob/output/github-contribution-grid-snake.gif)
-
 ---
