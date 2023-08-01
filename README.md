@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working in Jio Platforms Limited<br>👯 I’m looking to collaborate on Reactjs, Nodejs<br>🌱 I’m currently learning MERN Stack Web Development<br>💬 Ask me about Reactjs<br>📫 Reach me **bhoirchinmay2014@gmail.com**<br>
+🔭 I’m currently working as Graduate Engineer Trainee at Jio Platforms Limited<br>👯 I’m looking to collaborate on Reactjs, Nodejs<br>🌱 I’m currently learning MERN Stack Web Development<br>💬 Ask me about Reactjs<br>📫 Reach me **bhoirchinmay2014@gmail.com**<br>
 
 ## 🌐 Connect with Me:
 
