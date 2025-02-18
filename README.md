@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinmay</h1>
-<h3 align="center">A passionate Full Stack (MERN) Web Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmay2660&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay2660" /> </p>
 
@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working as Software Development Engineer (SDE) at Jio Platforms Limited<br>👯 I’m looking to collaborate on Reactjs, Nodejs<br>🌱 I’m currently learning MERN Stack Web Development<br>💬 Ask me about Reactjs/Nodejs<br>📫 Reach me **bhoirchinmay2014@gmail.com**<br>
+🔭 I’m currently working as Frontend Developer at Jio Platforms Limited<br>👯 I’m looking to collaborate on Reactjs, Nextjs<br>💬 Ask me about Reactjs/Nextjs<br>📫 Reach me **bhoirchinmay2014@gmail.com**<br>
 
 ## 🌐 Connect with Me:
 
