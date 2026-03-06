@@ -6,23 +6,26 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=chinmay2660&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=chinmay2660&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
+
+---
+
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320"/>
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
-
 - 💼 **Software Engineer at Coditas**
 - 💼 Previously **SDE-1 (Frontend) at Jio Platforms Limited**
-- ⚙️ **3.5+ years** building modern frontend applications
-- 🧠 Focused on **React architecture, performance optimization and scalable UI**
+- ⚙️ **3.5+ years** building scalable frontend applications
+- 🧠 Specialized in **React architecture, performance optimization and scalable UI**
+- 📱 Built production applications used by **350K+ users**
 - 🤝 Open to collaborating on **React / Next.js projects**
 - 📫 Reach me at **bhoirchinmay2014@gmail.com**
 
-<br/>
+---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p>
 
@@ -44,19 +47,22 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 </p>
 
+---
+
 # 💻 Tech Stack
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### UI / Styling
 
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![ChakraUI](https://img.shields.io/badge/ChakraUI-4ED1C5?style=for-the-badge&logo=chakraui&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
@@ -66,12 +72,22 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 ![ExpressJS](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
+### Testing & Debugging
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![ReactTestingLibrary](https://img.shields.io/badge/RTL-000000?style=for-the-badge&logo=testing-library&logoColor=red)
+![ChromeDevTools](https://img.shields.io/badge/ChromeDevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+### Tools & DevOps
 
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Webpack](https://img.shields.io/badge/webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
 
 # 📊 GitHub Stats
 
@@ -81,9 +97,13 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay2660&layout=compact&theme=radical)
 
-## 📈 Contribution Graph
+---
+
+# 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=chinmay2660&theme=react-dark)
+
+---
 
 ## ☕ Developer Life
 
@@ -91,6 +111,8 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 - Debugging things that mysteriously broke overnight  
 - Writing `console.log()` more than actual code  
 - Renaming variables from `temp` → `finalTemp` → `finalFinalTemp`
+
+---
 
 ## ✍️ Random Dev Quote
 
