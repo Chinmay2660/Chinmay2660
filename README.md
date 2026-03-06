@@ -9,13 +9,11 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 <img src="https://komarev.com/ghpvc/?username=chinmay2660&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
-<table style="border:none;border-collapse:collapse;">
-<tr style="border:none;">
-<td width="60%" style="border:none;">
+<table>
+<tr>
+<td width="60%">
 
 - 💼 **Software Engineer at Coditas**
 - 💼 Previously **SDE-1 (Frontend) at Jio Platforms Limited**
@@ -26,15 +24,13 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 </td>
 
-<td width="40%" align="right" style="border:none;">
+<td width="40%" align="right">
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 
 </td>
 </tr>
 </table>
-
----
 
 ## 🌐 Connect With Me
 
@@ -57,8 +53,6 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 </a>
 
 </p>
-
----
 
 # 💻 Tech Stack
 
@@ -89,8 +83,6 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
----
-
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=chinmay2660&show_icons=true&theme=radical&count_private=true)
@@ -99,13 +91,9 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay2660&layout=compact&theme=radical)
 
----
-
 ## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=chinmay2660&theme=react-dark)
-
----
 
 ## ☕ Developer Life
 
@@ -113,8 +101,6 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 - Debugging things that mysteriously broke overnight  
 - Writing `console.log()` more than actual code  
 - Renaming variables from `temp` → `finalTemp` → `finalFinalTemp`
-
----
 
 ## ✍️ Random Dev Quote
 
