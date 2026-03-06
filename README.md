@@ -21,7 +21,7 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 - 🤝 Open to collaborating on **React / Next.js projects**
 - 📫 Reach me at **bhoirchinmay2014@gmail.com**
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p>
 
@@ -43,7 +43,7 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 </p>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
 
@@ -83,7 +83,7 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=chinmay2660&show_icons=true&theme=radical&count_private=true)
 
@@ -93,7 +93,7 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=chinmay2660&theme=react-dark)
 
