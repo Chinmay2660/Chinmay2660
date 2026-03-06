@@ -13,9 +13,9 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+<table style="border:none;border-collapse:collapse;">
+<tr style="border:none;">
+<td width="60%" style="border:none;">
 
 - 💼 **Software Engineer at Coditas**
 - 💼 Previously **SDE-1 (Frontend) at Jio Platforms Limited**
@@ -26,7 +26,7 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 </td>
 
-<td width="40%" align="right">
+<td width="40%" align="right" style="border:none;">
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 
