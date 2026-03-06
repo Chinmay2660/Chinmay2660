@@ -23,25 +23,13 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 ## 🌐 Connect With Me
 
-<p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay2660)
 
-<a href="https://linkedin.com/in/chinmay2660">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/chinmay2660/)
 
-<a href="https://leetcode.com/chinmay2660/">
-<img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
-</a>
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%23008D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/chinmay2660)
 
-<a href="https://www.hackerrank.com/chinmay2660">
-<img src="https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/chinmay2660">
-<img src="https://img.shields.io/badge/GeeksforGeeks-%308D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
-</a>
-
-</p>
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chinmay2660)
 
 ## 💻 Tech Stack
 
