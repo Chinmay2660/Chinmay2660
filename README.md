@@ -9,9 +9,7 @@
 
 🔭 I’m currently working as **Software Engineer at Coditas**  
 💼 Previously worked as **SDE - 1 (Frontend) at Jio Platforms Limited**  
-💻 **3.5+ years of experience** in building modern frontend applications  
-👯 I’m looking to collaborate on **React.js, Next.js, and frontend performance optimization**  
-💬 Ask me about **React, Next.js, JavaScript, and scalable UI architecture**  
+💻 **3.5+ years of experience** in building modern frontend applications
 📫 Reach me at **bhoirchinmay2014@gmail.com**
 
 ---
