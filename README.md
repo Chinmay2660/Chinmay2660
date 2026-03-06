@@ -11,9 +11,7 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 
 - 💼 **Software Engineer at Coditas**
 - 💼 Previously **SDE-1 (Frontend) at Jio Platforms Limited**
@@ -22,15 +20,7 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 - 🤝 Open to collaborating on **React / Next.js projects**
 - 📫 Reach me at **bhoirchinmay2014@gmail.com**
 
-</td>
-
-<td width="40%" align="right">
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
-
-</td>
-</tr>
-</table>
+<br/>
 
 ## 🌐 Connect With Me
 
