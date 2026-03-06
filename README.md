@@ -95,7 +95,3 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-⭐ From [chinmay2660](https://github.com/chinmay2660)
