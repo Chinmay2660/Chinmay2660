@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chinmay</h1>
-<h3 align="center">Frontend Engineer | React • Next.js • Scalable UI Architecture</h3>
 
-<p align="center">
+<h3 align="center">
 Frontend Engineer with 3.5+ years of experience building performant, scalable web applications.
-</p>
+</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=chinmay2660&label=Profile%20views&color=0e75b6&style=flat"/>
