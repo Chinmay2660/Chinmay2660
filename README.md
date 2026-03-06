@@ -9,9 +9,9 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 <img src="https://komarev.com/ghpvc/?username=chinmay2660&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320"/>
-
 ## 👨‍💻 About Me
+
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320"/>
 
 - 💼 **Software Engineer at Coditas**
 - 💼 Previously **SDE-1 (Frontend) at Jio Platforms Limited**
@@ -20,8 +20,6 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 - 📱 Built production applications used by **350K+ users**
 - 🤝 Open to collaborating on **React / Next.js projects**
 - 📫 Reach me at **bhoirchinmay2014@gmail.com**
-
-<br/>
 
 # 🌐 Connect With Me
 
