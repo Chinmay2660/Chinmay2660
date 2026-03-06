@@ -2,12 +2,14 @@
 <h3 align="center">Frontend Engineer | React • Next.js • Scalable UI Architecture</h3>
 
 <p align="center">
-Frontend Engineer with 3.5+ years of experience building performant, scalable web applications.
+Frontend Engineer with 3.5+ years of experience building performant and scalable web applications.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=chinmay2660&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=chinmay2660&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
@@ -15,8 +17,8 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 - 💼 **Software Engineer at Coditas**
 - 💼 Previously **SDE-1 (Frontend) at Jio Platforms Limited**
-- ⚙️ **3.5+ years** building modern frontend applications
-- 🧠 Focused on **React architecture, performance optimization and scalable UI**
+- ⚙️ **3.5+ years** building scalable frontend applications
+- 🧠 Strong focus on **React architecture, performance optimization and reusable UI systems**
 - 🤝 Open to collaborating on **React / Next.js projects**
 - 📫 Reach me at **bhoirchinmay2014@gmail.com**
 
@@ -34,7 +36,7 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 ---
 
-## ⚙️ Tech Stack
+# ⚙️ Tech Stack
 
 ### Frontend
 
@@ -43,7 +45,7 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 ![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### UI & Styling
+### UI / Styling
 
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
@@ -65,13 +67,19 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 ![](https://github-readme-stats.vercel.app/api?username=chinmay2660&show_icons=true&theme=radical&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chinmay2660&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay2660&layout=compact&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=chinmay2660&theme=react-dark)
 
 ---
 
@@ -90,8 +98,4 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 ---
 
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=chinmay2660&theme=react-dark)
-
----
+⭐ From [chinmay2660](https://github.com/chinmay2660)
