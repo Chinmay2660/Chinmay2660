@@ -9,11 +9,13 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 <img src="https://komarev.com/ghpvc/?username=chinmay2660&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ---
 
 ## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 - 💼 **Software Engineer at Coditas**
 - 💼 Previously **SDE-1 (Frontend) at Jio Platforms Limited**
@@ -22,21 +24,43 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 - 🤝 Open to collaborating on **React / Next.js projects**
 - 📫 Reach me at **bhoirchinmay2014@gmail.com**
 
+</td>
+
+<td width="40%" align="right">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay2660)
+<p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/chinmay2660/)
+<a href="https://linkedin.com/in/chinmay2660">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chinmay2660)
+<a href="https://leetcode.com/chinmay2660/">
+<img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+</a>
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%308D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/chinmay2660)
+<a href="https://www.hackerrank.com/chinmay2660">
+<img src="https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/chinmay2660">
+<img src="https://img.shields.io/badge/GeeksforGeeks-%308D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## ⚙️ Tech Stack
+# 💻 Tech Stack
 
 ### Frontend
 
@@ -45,7 +69,7 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 ![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### UI & Styling
+### UI / Styling
 
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
@@ -67,7 +91,7 @@ Frontend Engineer with 3.5+ years of experience building performant, scalable we
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=chinmay2660&show_icons=true&theme=radical&count_private=true)
 
