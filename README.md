@@ -108,7 +108,6 @@ AI-driven development across the full life cycle, powered by **Cursor**, **Claud
 <a href="https://leetcode.com/chinmay2660/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
  
 </div>
----
  
 ## 📊 GitHub Stats
  
@@ -117,10 +116,10 @@ AI-driven development across the full life cycle, powered by **Cursor**, **Claud
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay2660&layout=compact&theme=radical&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay2660&theme=radical&hide_border=true" />
 </div>
+
 ## 📈 Contribution Graph
  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmay2660&theme=react-dark&hide_border=true" width="100%"/>
----
  
 ## ☕ Developer Life
  
